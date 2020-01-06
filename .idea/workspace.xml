@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54eebcfe-f719-44d0-b1c9-f79f9cd33ddc" name="Default Changelist" comment="" />
+    <list default="true" id="54eebcfe-f719-44d0-b1c9-f79f9cd33ddc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pi" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -41,7 +53,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -99,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578183634990</updated>
-      <workItem from="1578183676048" duration="9880000" />
+      <workItem from="1578183676048" duration="12682000" />
     </task>
     <servers />
   </component>
@@ -115,26 +127,38 @@
       <screen x="67" y="27" width="1299" height="636" />
     </state>
     <state x="402" y="27" width="619" height="636" key="#main/67.27.1299.636@67.27.1299.636" timestamp="1578261687766" />
-    <state width="1233" height="127" key="GridCell.Tab.0.bottom" timestamp="1578261695491">
+    <state x="177" y="147" width="1079" height="396" key="DiffContextDialog" timestamp="1578338743260">
       <screen x="67" y="27" width="1299" height="636" />
     </state>
-    <state width="1233" height="127" key="GridCell.Tab.0.bottom/67.27.1299.636@67.27.1299.636" timestamp="1578261695491" />
-    <state width="1233" height="127" key="GridCell.Tab.0.center" timestamp="1578261695488">
+    <state x="177" y="147" width="1079" height="396" key="DiffContextDialog/67.27.1299.636@67.27.1299.636" timestamp="1578338743260" />
+    <state width="1233" height="127" key="GridCell.Tab.0.bottom" timestamp="1578338343890">
       <screen x="67" y="27" width="1299" height="636" />
     </state>
-    <state width="1233" height="127" key="GridCell.Tab.0.center/67.27.1299.636@67.27.1299.636" timestamp="1578261695488" />
-    <state width="1233" height="127" key="GridCell.Tab.0.left" timestamp="1578261695487">
+    <state width="1233" height="127" key="GridCell.Tab.0.bottom/67.27.1299.636@67.27.1299.636" timestamp="1578338343890" />
+    <state width="1233" height="127" key="GridCell.Tab.0.center" timestamp="1578338343889">
       <screen x="67" y="27" width="1299" height="636" />
     </state>
-    <state width="1233" height="127" key="GridCell.Tab.0.left/67.27.1299.636@67.27.1299.636" timestamp="1578261695487" />
-    <state width="1233" height="127" key="GridCell.Tab.0.right" timestamp="1578261695489">
+    <state width="1233" height="127" key="GridCell.Tab.0.center/67.27.1299.636@67.27.1299.636" timestamp="1578338343889" />
+    <state width="1233" height="127" key="GridCell.Tab.0.left" timestamp="1578338343888">
       <screen x="67" y="27" width="1299" height="636" />
     </state>
-    <state width="1233" height="127" key="GridCell.Tab.0.right/67.27.1299.636@67.27.1299.636" timestamp="1578261695489" />
-    <state x="205" y="27" width="1012" height="636" key="SettingsEditor" timestamp="1578186770869">
+    <state width="1233" height="127" key="GridCell.Tab.0.left/67.27.1299.636@67.27.1299.636" timestamp="1578338343888" />
+    <state width="1233" height="127" key="GridCell.Tab.0.right" timestamp="1578338343889">
       <screen x="67" y="27" width="1299" height="636" />
     </state>
-    <state x="205" y="27" width="1012" height="636" key="SettingsEditor/67.27.1299.636@67.27.1299.636" timestamp="1578186770869" />
+    <state width="1233" height="127" key="GridCell.Tab.0.right/67.27.1299.636@67.27.1299.636" timestamp="1578338343889" />
+    <state x="205" y="27" width="1012" height="636" key="SettingsEditor" timestamp="1578338958473">
+      <screen x="67" y="27" width="1299" height="636" />
+    </state>
+    <state x="205" y="27" width="1012" height="636" key="SettingsEditor/67.27.1299.636@67.27.1299.636" timestamp="1578338958473" />
+    <state x="177" y="147" width="1079" height="396" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578339879409">
+      <screen x="67" y="27" width="1299" height="636" />
+    </state>
+    <state x="177" y="147" width="1079" height="396" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1299.636@67.27.1299.636" timestamp="1578339879409" />
+    <state x="177" y="147" width="1079" height="396" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1578339339968">
+      <screen x="67" y="27" width="1299" height="636" />
+    </state>
+    <state x="177" y="147" width="1079" height="396" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/67.27.1299.636@67.27.1299.636" timestamp="1578339339968" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pi$main.coverage" NAME="main Coverage Results" MODIFIED="1578261695351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
