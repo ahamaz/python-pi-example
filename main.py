@@ -1,5 +1,5 @@
 #!/usr/bin/phyton3
 def main (msg):
-// Enter the second comments
+//THis is a change in pi itself after pi2
     print(msg)
 main ("Hello People")
